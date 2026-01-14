@@ -1,0 +1,30 @@
+{
+  "name": "forgeui",
+  "version": "1.0.0",
+  "description": "UI composition engine for React",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelsondeveloper/ForgeUI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joelsondeveloper/ForgeUI/issues"
+  },
+  "homepage": "https://github.com/joelsondeveloper/ForgeUI#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "framer-motion": "^12.26.1"
+  }
+}
